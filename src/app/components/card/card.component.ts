@@ -15,5 +15,4 @@ export class CardComponent {
   }
 
   value:string;
-
 }
